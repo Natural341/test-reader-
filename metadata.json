@@ -1,0 +1,5 @@
+{
+  "name": "YKS Visually Impaired Assistant",
+  "description": "An accessible application for visually impaired YKS students to analyze exam booklet images, answer questions, receive instant feedback, and track their performance statistics.",
+  "requestFramePermissions": []
+}
